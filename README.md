@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aishwarya%20Kadam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer&descAlignY=58&descSize=20&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aishwarya%20Kadam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Java%20Backend%20Developer&descAlignY=58&descSize=20&animation=fadeIn" />
 
 ### Java | Spring Boot | Backend Development | Problem Solving
 
