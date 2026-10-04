@@ -4,9 +4,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aishwarya%20Kadam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Java%20%7C%20Spring%20Boot%20%7C%20Backend%20Development&descAlignY=58&descSize=18&animation=fadeIn" />
 
-### Java / Spring Boot Fresher | Backend Development | Problem Solving
-
-![Profile Views](https://komarev.com/ghpvc/?username=Aishwarya-Kadam16\&color=43D9AD\&style=flat-square\&label=Profile+Views)
+### Java | Spring Boot | Backend Development | Problem Solving
 
 </div>
 
@@ -14,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Java/Spring Boot fresher** focused on building a strong foundation in backend development and problem solving.
+I'm focused on building a strong foundation in **Java, Spring Boot, backend development, and problem solving**.
 
 * ☕ Learning and practising **Java**
 * 🌱 Building backend applications with **Spring Boot**
@@ -190,5 +188,6 @@ I aim to consistently add meaningful coding work here, including:
 ### 🚀 Building today for the backend career I want tomorrow.
 
 </div>
+
 
 
