@@ -35,7 +35,7 @@ I'm focused on building a strong foundation in **Java, Spring Boot, backend deve
 ### Backend & Frameworks
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge\&logo=postman\&logoColor=white)
+
 
 ### Databases
 
@@ -132,8 +132,6 @@ Spring Boot
   ↓
 REST APIs & Databases
   ↓
-Docker
-  ↓
 Backend Projects
 ```
 
@@ -154,7 +152,6 @@ I aim to consistently add meaningful coding work here, including:
 * Spring Boot features
 * Backend projects
 * Python practice
-* Docker experiments
 * Small coding exercises
 
 ---
